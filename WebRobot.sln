@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotBase", "RobotBase\RobotBase.csproj", "{A278DE4D-7E36-4A51-B1A8-20A4B8F1FAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotAPI", "RobotAPI\RobotAPI.csproj", "{31A7AC1F-22D6-403E-A636-0BB5F1982110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A278DE4D-7E36-4A51-B1A8-20A4B8F1FAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A278DE4D-7E36-4A51-B1A8-20A4B8F1FAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A278DE4D-7E36-4A51-B1A8-20A4B8F1FAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A278DE4D-7E36-4A51-B1A8-20A4B8F1FAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A7AC1F-22D6-403E-A636-0BB5F1982110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A7AC1F-22D6-403E-A636-0BB5F1982110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A7AC1F-22D6-403E-A636-0BB5F1982110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A7AC1F-22D6-403E-A636-0BB5F1982110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6CAA774-DC3D-47BE-992F-AEBB0E8222CF}
+	EndGlobalSection
+EndGlobal
