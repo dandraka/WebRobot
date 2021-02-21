@@ -29,6 +29,8 @@ namespace RobotBase
         {
             this.PosX += deltaX;
             this.PosY += deltaY;
+
+            Console.WriteLine($"New position: {this.PosX}, {this.PosY}");
         }
 
     }
